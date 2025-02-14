@@ -80,7 +80,12 @@ cu-kasol-trip-form/
 |-- README.md         # Documentation
 |-- database.sql      # SQL script for the database
 ```
+## Screen-shot
+![image](https://github.com/user-attachments/assets/5d0131ef-dbb3-4465-b374-c67180b1c411)
+---
+![image](https://github.com/user-attachments/assets/a79f858e-2848-4141-b699-7db9a2d67cd3)
 
+---
 ## Made by ❤️ Ramit Roshan
 Happy coding! 🎉
 
