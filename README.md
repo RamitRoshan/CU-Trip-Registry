@@ -39,10 +39,7 @@ Welcome to the **CU Kasol Trip Form** repository! This project is a simple yet e
 2. Create a database named `trip`.
 3. Import the provided `database.sql` file to create the necessary tables.
 
-### Step 4: Update Database Credentials
-Modify `index.php` to match your MySQL username and password.
-
-### Step 5: Run the Project
+### Step 4: Run the Project
 1. Place the project folder inside the `htdocs` directory of XAMPP.
 2. Open a web browser and visit:
    ```sh
